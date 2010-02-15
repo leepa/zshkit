@@ -92,9 +92,9 @@ setprompt () {
 
     ###
     # css...
-    LINE_COLOR=$PR_GREY
+    LINE_COLOR=$PR_GREEN
     PATH_COLOR=$PR_YELLOW
-    TIME_COLOR=$PR_GREY
+    TIME_COLOR=$PR_GREEN
     ALERT_COLOR="%{${fg[red]}${bg[white]}%}"
     
     #SET UP CLOCK, USER HERE to use [ . kept failing in big assignment - invalid subscript
